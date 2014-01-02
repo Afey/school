@@ -1,4 +1,4 @@
-# Week 0 - ```CS50x```
+# Week 1 - ```CS50x```
 
 ## From Scratch to C
 
