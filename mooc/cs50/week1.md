@@ -101,4 +101,4 @@ $ clang -o hello hello.c
 -o is a switch or flag, an option that influences the behavior of the program. In this case, the value provided after -o is hello, which becomes the name of the executable that the compiler creates. We could’ve typed -o hihihi and our executable would then have been named hihihi. The flags that we pass to a program are special examples of command-line arguments.
 
 ---
-^ Derived from [CS50 Notes](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/1/m/notes1m/notes1m.html)
+^Derived ^from ^[CS50 Notes](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/1/m/notes1m/notes1m.html)
