@@ -6,20 +6,20 @@ An aggregation of all my schoolwork and notes, starting from second semester sop
 
 ### Sophomore Year
 
-* French III
-* Trigonometry/Calculus A Honors
-* AP Statistics
+* [French III](sophomore/french-iii)
+* [Trigonometry/Calculus A Honors](sophomore/trigCalcA)
+* [AP Statistics](sophomore/apStats)
 * Introduction to Business (College)
-* Principles of Marketing (College)
-* Chemistry Honors
-* English II Honors
-* AP World History
+* [Principles of Marketing (College)](sophomore/marketing)
+* [Chemistry Honors](sophomore/chemistry)
+* [English II Honors](sophomore/english-ii)
+* [AP World History](sophomore/apWorld)
 
 ### MOOCs
 
 * Startup Engineering (```CS184```)
 * Technology Entrepreneurship I & II
-* Introduction to Computer Science (```CS50x```)
+* [Introduction to Computer Science (```CS50x```)](mooc/cs50)
 
 
 ## Plagiarism
