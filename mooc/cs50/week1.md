@@ -202,7 +202,7 @@ for (int i = 0; i < 10; i++)
 {
     printf("hello, world!\n");
 }
-```C
+```
 
 Recall that i++ is shorthand for "increment the value of i by 1." This loop continues executing so long as i < 10, which happens 10 times.
 
