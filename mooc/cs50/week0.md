@@ -37,7 +37,7 @@ Instead, we could start by flipping to the middle of the phonebook. Now we break
 
 How do these two approaches compare in terms of their times to solve the problem? In the graph below, the first steep line (n in red) represents the approach of turning one page at a time. The second steep line (n/2 in yellow) represents a slightly improved approach of turning two pages at a time. The curve (log n in green) represents our "tear and throw away" approach. As the size of the problem grows, the time to solve that problem doesn’t grow nearly as fast. In the context of this problem, n is the number of pages in the phonebook. As we go from 500 to 1000 to 2000 pages in the phonebook, we need only tear the phonebook in half one or two more times.
 
-[!](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/0/w/notes0w/runtimes.png)
+![](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/0/w/notes0w/runtimes.png)
 
 ### Counting People
 
@@ -59,7 +59,7 @@ This algorithm gives us 637, which is close to the correct number of 729. Hooray
 
 Steganography is the art of hiding information within images. Although it appears to be random noise, this image is actually of something much more interesting:
 
-[!](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/0/w/notes0w/iron_puzzle.png)
+![](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/0/w/notes0w/iron_puzzle.png)
 
 The actual code for hiding information in this picture is something like the following:
 
@@ -89,4 +89,4 @@ print(im);
 
 Just allow yourself to be wowed by the result:
 
-[!](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/0/w/notes0w/iron_solution.png)
+![](http://d2o9nyf4hwsci4.cloudfront.net/2013/fall/lectures/0/w/notes0w/iron_solution.png)
